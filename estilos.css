@@ -1,0 +1,45 @@
+div.carousel-item{
+    max-height: 500px;
+}
+
+i.bi-flag-fill{
+    color:rgb(213, 70, 94);
+    font-size: 45px;
+}
+
+i.bi-bus-front{
+    color:rgb(129, 39, 213);
+    font-size: 45px;
+}
+
+i.bi-instagram{
+    color:rgb(37, 147, 106);
+    font-size: 45px;
+}
+
+p{
+    text-align: center;
+}
+
+
+i.bi-whatsapp{
+    color:rgb(188, 77, 77);
+    font-size:45px;
+}
+
+i.bi-facebook{
+    color:rgb(54, 27, 87);
+    font-size:45px;
+}
+
+nav.class{
+    background-color: grey;
+}
+
+head{
+    background-color: aquamarine;
+}
+
+body{
+   background-color:rgb(191, 140, 191);
+}
